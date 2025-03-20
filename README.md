@@ -1,5 +1,4 @@
-# cv-gabrielle-jordano
-Resume Gabrielle Jordano
+Resume Gabrielle Jordano Koskela
 
 Welcome to My Portfolio Repository! 👋
 Hello there! I'm Gabrielle Jordano Koskela, and this repository is a showcase of my journey into the world of JavaScript, HTML, and CSS. As I dive deeper into web development, I'm using this space to document my progress, share my projects, and demonstrate the skills I'm acquiring along the way.
